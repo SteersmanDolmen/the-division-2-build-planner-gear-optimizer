@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="The Division 2 Build Planner - gear builds, weapon comparison and loadout presets">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c110d"/><stop offset="1" stop-color="#0a0e0b"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="14%" cy="8%" r="55%">
+      <stop offset="0" stop-color="#1f2c1c" stop-opacity=".9"/><stop offset="1" stop-color="transparent"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="92%" cy="0%" r="48%">
+      <stop offset="0" stop-color="#2a1c0f" stop-opacity=".85"/><stop offset="1" stop-color="transparent"/>
+    </radialGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffb066"/><stop offset="1" stop-color="#ff7a18"/>
+    </linearGradient>
+    <linearGradient id="grn" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4fbf7d"/><stop offset="1" stop-color="#7ee081"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="0" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect width="1200" height="630" fill="url(#g2)"/>
+  <g opacity=".08" stroke="#7ee081" stroke-width="1">
+    <path d="M0 90 H1200 M0 180 H1200 M0 270 H1200 M0 360 H1200 M0 450 H1200 M0 540 H1200"/>
+  </g>
+  <!-- logo mark -->
+  <g transform="translate(90 84)">
+    <circle cx="36" cy="36" r="34" fill="none" stroke="url(#ac)" stroke-width="3.5"/>
+    <circle cx="36" cy="36" r="16" fill="none" stroke="#7ee081" stroke-width="3"/>
+    <text x="36" y="43" font-family="Chakra Petch, Arial, sans-serif" font-size="18" font-weight="700" fill="#ffb066" text-anchor="middle">D2</text>
+  </g>
+  <text x="172" y="100" font-family="Chakra Petch, Arial, sans-serif" font-size="20" font-weight="700" fill="#eef5ec">THE DIVISION 2</text>
+  <text x="172" y="122" font-family="Rubik, Arial, sans-serif" font-size="13" letter-spacing="4" fill="#9dab9f">BUILD PLANNER · GEAR OPTIMIZER</text>
+  <!-- eyebrow -->
+  <rect x="90" y="196" width="170" height="34" rx="17" fill="rgba(126,224,129,.1)" stroke="rgba(126,224,129,.28)"/>
+  <circle cx="108" cy="213" r="5" fill="#7ee081"/>
+  <text x="122" y="218" font-family="Rubik, Arial, sans-serif" font-size="13" letter-spacing="2" fill="#b9f0bb">BUILD 1.0.0 · WINDOWS</text>
+  <!-- title -->
+  <text x="90" y="296" font-family="Chakra Petch, Arial, sans-serif" font-size="68" font-weight="700" fill="#eef5ec">The Division 2</text>
+  <text x="90" y="372" font-family="Chakra Petch, Arial, sans-serif" font-size="68" font-weight="700" fill="url(#ac)">Build Planner</text>
+  <!-- subhead -->
+  <text x="92" y="424" font-family="Rubik, Arial, sans-serif" font-size="22" fill="#c3cec2">Create, compare and manage optimized gear builds</text>
+  <text x="92" y="456" font-family="Rubik, Arial, sans-serif" font-size="22" fill="#c3cec2">and loadouts — local and offline.</text>
+  <!-- build sheet card -->
+  <g transform="translate(720 150)">
+    <rect x="0" y="0" width="400" height="340" rx="34" fill="#161f17" stroke="#28332a"/>
+    <rect x="20" y="22" width="120" height="30" rx="15" fill="rgba(126,224,129,.12)" stroke="rgba(126,224,129,.26)"/>
+    <text x="80" y="42" font-family="Rubik, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#b9f0bb" text-anchor="middle">STRIKER · DPS</text>
+    <text x="360" y="42" font-family="Rubik, Arial, sans-serif" font-size="12" fill="#9dab9f" text-anchor="end">27.4% CRIT</text>
+    <!-- ring -->
+    <circle cx="92" cy="140" r="54" fill="none" stroke="#1d271e" stroke-width="10"/>
+    <circle cx="92" cy="140" r="54" fill="none" stroke="url(#ac)" stroke-width="10" stroke-linecap="round" stroke-dasharray="312 339" transform="rotate(-90 92 140)"/>
+    <text x="92" y="138" font-family="Chakra Petch, Arial, sans-serif" font-size="26" font-weight="700" fill="#eef5ec" text-anchor="middle">92%</text>
+    <text x="92" y="158" font-family="Rubik, Arial, sans-serif" font-size="10" letter-spacing="2" fill="#9dab9f" text-anchor="middle">SYNERGY</text>
+    <!-- bars -->
+    <g transform="translate(170 96)">
+      <text x="0" y="0" font-family="Rubik, Arial, sans-serif" font-size="12" fill="#9dab9f">Weapon damage</text>
+      <text x="200" y="0" font-family="Rubik, Arial, sans-serif" font-size="12" fill="#dfe9dd" text-anchor="end">+88%</text>
+      <rect x="0" y="8" width="200" height="8" rx="4" fill="#0d130e" stroke="#222c23"/>
+      <rect x="0" y="8" width="176" height="8" rx="4" fill="url(#ac)"/>
+      <text x="0" y="38" font-family="Rubik, Arial, sans-serif" font-size="12" fill="#9dab9f">Armor</text>
+      <text x="200" y="38" font-family="Rubik, Arial, sans-serif" font-size="12" fill="#dfe9dd" text-anchor="end">1.1M</text>
+      <rect x="0" y="46" width="200" height="8" rx="4" fill="#0d130e" stroke="#222c23"/>
+      <rect x="0" y="46" width="144" height="8" rx="4" fill="url(#grn)"/>
+      <text x="0" y="76" font-family="Rubik, Arial, sans-serif" font-size="12" fill="#9dab9f">Crit chance</text>
+      <text x="200" y="76" font-family="Rubik, Arial, sans-serif" font-size="12" fill="#dfe9dd" text-anchor="end">27.4%</text>
+      <rect x="0" y="84" width="200" height="8" rx="4" fill="#0d130e" stroke="#222c23"/>
+      <rect x="0" y="84" width="124" height="8" rx="4" fill="url(#ac)"/>
+    </g>
+    <!-- slots -->
+    <g transform="translate(28 252)">
+      <circle cx="24" cy="24" r="22" fill="none" stroke="#33402f"/>
+      <circle cx="84" cy="24" r="22" fill="none" stroke="#33402f"/>
+      <circle cx="144" cy="24" r="22" fill="none" stroke="rgba(255,122,24,.5)"/>
+      <circle cx="204" cy="24" r="22" fill="none" stroke="rgba(255,122,24,.5)"/>
+      <circle cx="264" cy="24" r="22" fill="none" stroke="rgba(255,122,24,.5)"/>
+      <circle cx="324" cy="24" r="22" fill="none" stroke="rgba(255,122,24,.5)"/>
+    </g>
+    <text x="200" y="312" font-family="Rubik, Arial, sans-serif" font-size="12" fill="#9dab9f" text-anchor="middle">LOADOUT 2 OF 6 · EXPORT READY</text>
+  </g>
+  <!-- footer -->
+  <text x="90" y="588" font-family="Rubik, Arial, sans-serif" font-size="13" fill="#7f8d80">© 2026 The Division 2 Build Planner · unofficial fan project</text>
+</svg>
